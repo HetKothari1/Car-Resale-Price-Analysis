@@ -47,12 +47,10 @@ Prediction: Used the trained model to make predictions on the test dataset.
 Results Analysis: Analyzed the results to determine the accuracy of the model in predicting the resale price of cars.
 
 ## Results
--The analysis provides a detailed understanding of client demographics, highlighting district-wise variations and trends.
+Mileage and brand were found to be the most influential factors affecting the resale price of cars.
 
--Insights into financial performance over time offer valuable strategic direction for the bank.
+The linear regression model performed well, with a low mean squared error (MSE) on the test dataset, indicating accurate predictions.
 
--Examination of account and card usage patterns identifies opportunities for service enhancement and product development.
+The model can help both buyers and sellers in the used car market by providing estimates of fair resale values based on key factors.
 
--Identification of major expenses opens avenues for cost reduction and improved profitability.
-
--Analysis of the loan portfolio sheds light on lending patterns and client segments, enabling targeted marketing and risk management strategies.
+ Additional features such as car age, maintenance history, and market trends could further enhance the model's predictive power.
