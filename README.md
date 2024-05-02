@@ -3,6 +3,8 @@
 ### Project Overview
 This project focuses on analyzing car resale data to understand the factors influencing the resale price of cars. The dataset contains various columns such as brand, mileage, price, and fuel type, which were used to build a linear regression model.
 
+![car](https://github.com/HetKothari1/Car-Resale-Price-Analysis/assets/167286650/fa664bbc-85e2-4c91-a759-ac3723598687)
+
 ## Data Sources
 accounts.csv - each record describes static characteristics of an account,
 
