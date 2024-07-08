@@ -6,21 +6,7 @@ This project focuses on analyzing car resale data to understand the factors infl
 ![car](https://github.com/HetKothari1/Car-Resale-Price-Analysis/assets/167286650/fa664bbc-85e2-4c91-a759-ac3723598687)
 
 ## Data Sources
-accounts.csv - each record describes static characteristics of an account,
-
-clients.csv  - each record describes characteristics of a client,
-
-disp.csv - each record relates together a client with an account i.e. this relation describes the rights of clients to operate accounts,
-
-order.csv - each record describes characteristics of a payment order,
-
-transaction.csv - each record describes one transaction on an account,
-
-loan.csv  - each record describes a loan granted for a given account,
-
-card.csv  - each record describes a credit card issued to an account,
-
-district.csv - each record describes demographic characteristics of a district.
+car_resale.csv - contains all the details of the resold car
 
 ## Tools
 Python: Used for data cleaning, preprocessing, and building the linear regression model.
